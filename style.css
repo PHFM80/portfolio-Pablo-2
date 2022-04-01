@@ -27,40 +27,33 @@ body{
     
 }
 
-/*
-section{
-    background-color:rgb(169, 126, 212);
+.border{
+    margin:10px 2px;
+    padding: 10px;
 }
+section{
+   }
 
 .main{
-    background-color: rgb(226, 82, 82);
 }
 
 .section{
-    background-color:rgb(227, 230, 70);
 }
 
 .acercademi{
-    background-color:red;
 }
 
 .datosdeestudio{
-    background-color:rgb(151, 52, 52);
 }
 
 .experiencia{
-    background-color:rgb(122, 26, 26);
 }
 
 .aptitudes{
-    background-color:rgb(172, 105, 105);
 }
 
-.logro
-s{
-    background-color:rgb(138, 14, 14);
+.logros{
 }
 
 aside{
-    background-color:violet;
 }
